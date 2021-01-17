@@ -1,0 +1,3 @@
+D:/Projects/Problem-Solving/T-primes/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Projects/Problem-Solving/T-primes/cmake-build-debug/CMakeFiles/T_primes.dir
+D:/Projects/Problem-Solving/T-primes/cmake-build-debug/CMakeFiles/rebuild_cache.dir
